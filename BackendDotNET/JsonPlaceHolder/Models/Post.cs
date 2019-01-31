@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace JsonPlaceHolder.Models
+﻿namespace JsonPlaceHolder.Models
 {
     public class Post
     {
